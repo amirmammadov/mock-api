@@ -1274,5 +1274,1067 @@
       "img": "company2.png",
       "phone": "+994505556412"
     }
+  ],
+  "newCars": [
+    {
+      "id": 1,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car1",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 2,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car2",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 3,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car3",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 4,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car4",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 5,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car5",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 6,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car6",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 7,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car7",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 8,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car8",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 9,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car9",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 10,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car10",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 11,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car9",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 12,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car9",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 13,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car1",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 14,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car3",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 15,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car8",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 16,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car5",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 17,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car10",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 18,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car4",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 19,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car2",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    },
+    {
+      "id": 20,
+      "salon": false,
+      "name": "Audi A4",
+      "price": "21 000",
+      "currency": "$",
+      "capacity": "2.5L",
+      "year": "2018",
+      "distance": "180 800 km",
+      "location": "Sumqayıt",
+      "date": "Bugün",
+      "img": "car7",
+      "leasing": false,
+      "credit": false,
+      "barter": true,
+      "extraInfo": [
+        {
+          "title": "Mühərrik həcmi",
+          "value": "5.5 L",
+          "imgName": "engine_volume"
+        },
+        { "title": "Il", "value": "2021", "imgName": "year" },
+        { "title": "Rəng", "value": "Qara", "imgName": "color" },
+        { "title": "Yürüyüş", "value": "110 000 km", "imgName": "distance" },
+        { "title": "Ban növü", "value": "Sedan", "imgName": "bantype" },
+        { "title": "Sahib", "value": "2", "imgName": "owner" },
+        {
+          "title": "Transmissiya",
+          "value": "Avtomat",
+          "imgName": "transmission"
+        },
+        { "title": "Güc", "value": "263", "imgName": "power" },
+        { "title": "Oturacaq sayı", "value": "5", "imgName": "number_seats" },
+        { "title": "Ötürücü", "value": "Ön", "imgName": "gear" },
+        { "title": "Yanacaq", "value": "Dizel", "imgName": "fuel" },
+        { "title": "Şəhər", "value": "Bakı", "imgName": "city" }
+      ],
+      "basicInfo": [
+        { "key": "Vəziyyəti", "value": "Sürülmüş" },
+        { "key": "Yanacaq sərfiyyatı", "value": "71/100 km" },
+        { "key": "Parkinq sensoru", "value": "360° kamera" },
+        {
+          "key": "Sürət kontrol düzənləyici",
+          "value": "Adaptiv kontrol düzənləyici"
+        },
+        { "key": "Daxili rəngi", "value": "Bej" },
+        { "key": "Daxili materialı", "value": "Tam dəri" },
+        { "key": "Hava yastıqları", "value": "Ön təhlükəsizlik yastıqları" }
+      ],
+      "note": {
+        "content": "Heç bir detalında vuruğu yoxdur. Rənglənən yeri yoxdur. Mercedes Servisindən alınıb. Çox baxımlı, səliqəli maşındır."
+      }
+    }
   ]
 }
